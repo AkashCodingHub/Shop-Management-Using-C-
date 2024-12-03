@@ -346,7 +346,7 @@ namespace ShopMangemnet
 
         internal SqlDataReader AllProducts(string tem)
         {
-            throw new NotImplementedException();
+            //throw new NotImplementedException();
         }
     }
     }
